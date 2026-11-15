@@ -1,4 +1,3 @@
-# Emergency-Sound-Detection
 # Create venv (recommended Python 3.12)
 py -3.12 -m venv .venv
 
